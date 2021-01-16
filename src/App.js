@@ -3,9 +3,13 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>React</h1>
+      {/* Header */}
+        {/* items => snapping */}
+        {/* items => snapping */}
+        {/* items => snapping */}
+        {/* items => snapping */}
     </div>
   );
-}
+} 
 
 export default App;
